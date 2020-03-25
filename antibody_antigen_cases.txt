@@ -1,0 +1,68 @@
+Complex PDB	Antibody PDB	Antibody	Antigen PDB	Antigen	I-RMSD (Å)	ΔASA (Å2)	Category	New
+1S78_DC:A	1L7I_HL	pertuzumab (Perjeta)	2A91_A	ErbB2	1.13	2175.1	Rigid	X
+3MJ9_HL:A	3MJ8_HL	HL4E10	3MJ6_A	JAML	1.48	2456.6	Rigid	X
+3SE8_HL:G	5JXA_HL	VRC03	3TGT_A	HIV 93TH057 gp120	1.22	2690.3	Rigid	X
+3U7Y_HL:G	3U7W_HL	NIH45-46	3TGT_A	HIV 93TH057 gp120	0.84	2543.9	Rigid	X
+3WD5_HL:ABC	4NYL_HL	adalimumab (Humira)	1TNF_ABC	TNFalpha	0.93	2328.2	Rigid	X
+4FP8_HL:A	4FNL_HL	C05	4FNK_ABCDEF	influenza H3 HA	0.34	1321.5	Rigid	X
+4M5Z_HL:A	4M5Y_HL	5J8	3UYX_A	influenza H1N1 HA1	0.73	1591.1	Rigid	X
+4Y7M_A:C	4QGY_A	nb25	4Y7L_A	E coli TssM CTD	0.84	1102.5	Rigid	X
+5GRJ_HL:A	4NKI_HL	avelumab scFv (Bavencio)	4Z18_A	PD-L1	1.14	1752.5	Rigid	X
+5JMO_D:B	5JMR_A	Nb14	5JXI_A	Furin	0.29	1393.9	Rigid	X
+5O14_HL:A	5UR8_AB	1A12	3KVD_D	Neisseria meningitidis fHbp	0.63	1523.7	Rigid	X
+5O1R_HL:A	5NYX_HL	5H2	6CUJ_A	Neisseria meningitidis NHBA	0.9	1851.9	Rigid	X
+5SV3_C:D	5SV4_A	A3C8	1IFT_A	Ricin	0.57	1293.6	Rigid	X
+5WK3_WV:D	5WK2_HL	M116	1NR4_A	CCL17	0.57	1222.3	Rigid	X
+5WUX_HL:EFG	5WUV_HL	certolizumab (Cimzia)	1TNF_CBA	TNFalpha	0.8	2072.8	Rigid	X
+5X0T_AB:E	5X4G_AB	6H8	3B5H_A	CD147	1.25	1316.2	Rigid	X
+5Y9J_HL:ABC	5Y9K_HL	belimumab (Benlysta)	1KXG_ABC	B lymphocyte stimulator	0.96	1976.3	Rigid	X
+6A77_HL:A	6A76_HL	B5209B	5O5I_A	ROBO1 Ig5	0.95	1532.8	Rigid	X
+6B0S_HL:C	6B0W_HL	1710 Fab fragment	3VDJ_A	circumsporozoite protein aTSR domain	0.72	1353.2	Rigid	X
+6BPC_EF:D	6BPB_AB	4F7	5W53_A	Plasmodium vivax reticulocyte-binding protein 2b	0.47	1644.5	Rigid	X
+6CWG_B:A	6CWK_A	A9	1IFT_A	Ricin	0.76	1151.2	Rigid	X
+6DBG_C:B	6DBA_A	R303	1H6T_A	Listeria monocytogenes internalin B	0.46	1525.2	Rigid	X
+6OC3_AB:F	6OBZ_HL	FluA-20	6CHX_A	H1 hemagglutinin head	0.59	1536.9	Rigid	X
+1AHW_AB:C	1FGN_LH	Fab 5g9	1TFH_A	Tissue factor	0.69	1899	Rigid	
+1DQJ_AB:C	1DQQ_CD	Fab Hyhel63	3LZT_	HEW lysozyme	0.75	1765	Rigid	
+1E6J_HL:P	1E6O_HL	Fab	1A43_	HIV-1 capsid protein p24	1.05	1245	Rigid	
+1JPS_HL:T	1JPT_HL	Fab D3H44	1TFH_B	Tissue factor	0.51	1852	Rigid	
+1MLC_AB:E	1MLB_AB	Fab44.1	3LZT_	HEW lysozyme	0.6	1392	Rigid	
+1VFB_AB:C	1VFA_AB	Fv D1.3	8LYZ_	HEW lysozyme	1.02	1383	Rigid	
+1WEJ_HL:F	1QBL_HL	Fab E8	1HRC_	Cytochrome C	0.31	1177	Rigid	
+2FD6_HL:U	2FAT_HL	Plasminogen receptor antibody	1YWH_A	Plasminogen activator receptor	1.07	1139	Rigid	
+2I25_N:L	2I24_N	Shark single domain antigen receptor	3LZT	Lysozyme	1.21	1425	Rigid	
+2VIS_AB:C	1GIG_LH	Fab	2VIU_ACE	Flu virus hemagglutinin	0.8	1296	Rigid	
+2VXT_HL:I 	2VXU_HL	Murine reference antibody 125-2H FAB	1J0S_A(6)	Interleukin-18	1.32	2163	Rigid	
+2W9E_HL:A 	2W9D_HL	ICSM 18 FAB fragment	1QM1_A	Prion protein fragment	1.13	1677	Rigid	
+3EOA_LH:I 	3EO9_LH	Efalizumab FAB fragment	3F74_A	Integrin alpha-L I domain	0.39	1272	Rigid	
+3HMX_LH:AB 	3HMW_LH	Ustekinumab FAB	1F45_AB	Interleukin-12	0.73	1841	Rigid	
+3MXW_LH:A 	3MXV_LH	Anti-Shh 5E1 chimera FAB fragment	3M1N_A	Sonic Hedgehog N-terminal domain	0.48	1696	Rigid	
+3RVW_CD:A 	3RVT_CD	4C1 FAB	3F5V_A	DER P 1 allergen	0.5	1383	Rigid	
+4DN4_LH:M 	4DN3_LH	CNTO888 FAB	1DOL_A	MCP-1	0.81	1317	Rigid	
+4FQI_HL:ABEFCD 	4FQH_HL	CR9114 FAB	2FK0_ABCDEF	H5N1 influenza virus hemagglutinin	1.08	1459	Rigid	
+4G6J_HL:A 	4G5Z_HL	Canakinumab antibody fragment	4I1B_A	Interleukin-1 beta	0.61	1893	Rigid	
+4G6M_HL:A 	4G6K_HL	Gevokizumab antibody fragment	4I1B_A	Interleukin-1 beta	0.52	1673	Rigid	
+4GXU_MN:ABEFCD 	4GXV_HL	1F1 antibody	1RUZ_HIJKLM	1918 H1 Hemagglutinin	0.78	1830	Rigid	
+2DD8_HL:S	2G75_AB	m396	2GHV_E	SARS spike	2.19	1709.7	Medium	X
+3RJQ_B:A	3R0M_A	A12	3TGR_A	C1086 HIV gp120	0.79	1734.4	Medium	X
+4ETQ_HL:C	4EBQ_HL	LA5	4E9O_X	vaccinia D8L IMV	0.47	2277.9	Medium	X
+4M3K_B:A	4M3J_A	cAb-H7S	4BLM_A	B. licheniformis beta-lactamase	1.77	1588	Medium	X
+4POU_B:A	4POY_A	VHHmetal	6ETL_A	bovine RNase A	1.83	1313.3	Medium	X
+5CBA_AB:E	5C2B_HL	3B4 scFv	4ZAI_A	CXCL13	1.49	1790.2	Medium	X
+5E5M_B:A	5E03_A	H11	5E56_A	mouse CTLA-4	1.56	1341.4	Medium	X
+5HGG_T:A	5HDO_A	Nb4	4FUD_A	uPA	0.84	1969	Medium	X
+5HYS_CD:JK	2XA8_HL	omalizumab (Xolair)	4GT7_AB	IgE-Fc3-4	1	1331.6	Medium	X
+5KOV_C:AB	5I30_HL	PL-2 scFv	5KOU_AB	astrovirus 2 capsid protein spike domain	1.69	1735	Medium	X
+5VNW_D:A	5VNV_A	Nb.b201	1E78_A	human serum albumin	1.49	966.8	Medium	X
+5WHK_HL:AB	5WHJ_HL	DX-2507	5BXF_AB	FcRn-B2M	1.88	1849.6	Medium	X
+6A0Z_HL:A	6A0X_AB	13D4	2FK0_A	H5N1 hemagglutinin head	1.28	1660.7	Medium	X
+6AL0_HL:A	4YNY_AB	NZ-1	6AKQ_A	A. aeolicus site-2 protease homolog with PA tag insertion	1.89	1622.8	Medium	X
+6EY6_I:AB	5FWO_A	nb130	6EY5_AB	P. gingivalis PorM	1.9	1806.8	Medium	X
+3EO1_AB:CF 	3EO0_AB	GC-1008  FAB fragment	1TGJ_AB	Transforming Growth Factor-Beta 3	1.37	1630	Medium	
+3G6D_LH:A 	3G6A_LH	CNTO607 FAB	1IK0_A(10)	Interleukin-13	1.86	1793	Medium	
+3HI6_XY:B 	3HI5_HL	AL-57 FAB fragment	1MJN_A	Integrin alpha-L I domain	1.65	1871	Medium	
+3L5W_LH:I 	3L7E_LH	C836 FAB	1IK0_A(11)	Interleukin-13	0.48	1138	Medium	
+3V6Z_AB:F 	3V6F_AB	FAB E6	3KXS_F	Capsid protein assembly domain	1.82	1922	Medium	
+2FJG_HL:VW	2FJF_HL	G6	4KZN_AB	VEGF	2.51	1678.2	Difficult	X
+4DW2_HL:U	4DVB_AB	mAb-112	4DVA_U	uPA	2.27	2037.6	Difficult	X
+5C7X_HL:A	5D7S_HL	MOR04357	2GMF_A	GM-CSF	2.31	2523.3	Difficult	X
