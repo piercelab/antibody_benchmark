@@ -8,8 +8,11 @@ Guest JD, Vreven T, Zhou J, Moal I, Jeliazkov JR, Gray JJ, Weng Z, Pierce BG. "A
 Each test case is represented by four pdb files, the nomenclature for which is as follows:
 
 '*complex-pdb-code*_r_u.pdb' - Unbound antibody structure
+
 '*complex-pdb-code*_l_u.pdb' - Unbound antigen structure
+
 '*complex-pdb-code*_r_b.pdb' - Bound antibody structure
+
 '*complex-pdb-code*_l_b.pdb' - Bound antigen structure
 
 Bound structures originate from the same PDB as the case name, yet unbound structures were taken from separate PDBs that correspond to the bound complex. For instance, 1AHW_r_b.pdb and 1AHW_l_b.pdb are from the antibody-antigen complex in 1AHW, but 1AHW_r_u.pdb is a structure from 1FGN and 1AHW_l_u.pdb is a structure from 1TFH. Bound-unbound pairs come pre-aligned for easy visualization of conformational changes. If testing a docking algorithm that is sensitive to initial positioning of unbound structures, users may randomize unbound structure positions to avoid possible bias in docking results.
