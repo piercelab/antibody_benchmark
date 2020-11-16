@@ -25,4 +25,4 @@ Prerequisite: make sure that the NCBI "blastp" executable is installed and avail
 2. Run the get_antibody_benchmark.pl script, or the get_antibody_benchmark_camelids.pl script. For example "./get_antibody_benchmark.pl > bound_unbound_pdbs.txt".
 3. Run the get_cases.pl script on that output. For example: "./get_cases.pl bound_unbound_pdbs.txt > cases.txt".
 
-Example output files from step #2 are provided in the example direcotry for reference ("bound_unbound_pdbs.txt", "bound_unbound_pdbs.camelids.txt"). These represent redundant PDBs and cases, and may be useful for users who would like to investigate alternative versions of structures in docking and affinity prediction.
+Example output files from step #2 are provided in the example directory for reference ("bound_unbound_pdbs.txt", "bound_unbound_pdbs.camelids.txt"). These represent redundant PDBs and cases, and may be useful for users who would like to investigate alternative versions of structures in docking and affinity prediction.
