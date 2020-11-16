@@ -27,6 +27,12 @@ Antibody: Trade names for therapeutic antibodies in test cases are shown in pare
 I-RMSD: Interface RMSD, which helped to assign docking difficulty level, was calculated by superposition of unbound antibody and antigen structures onto the bound complex structure using root-mean-square fit of interface residues.                                                            
 ΔASA: Measured change in accessible surface area upon complex formation.
 
+# Scripts
+The "scripts" directory contains code and input files that were used in our pipeline to identify new cases. The README in that directory contains more details and information.
+
+# Preliminary cases
+The "preliminary_cases" directory contains files where each line contains triplets (bound complex PDB code, and PDB codes of unbound counterparts) representing potential cases that were identified through automated searches of the PDB. These still require manual curation and inspection, but are made available for informational purposes.
+
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
