@@ -74,8 +74,8 @@ foreach my $comp (@all_comps)
     my $match_found = 0;
     for (my $i = 0; $i < @curr_bm; $i++)
     {
-	#if (($comp eq $curr_bm[$i]) || ($possible_cases{$comp} eq $possible_cases{$curr_bm[$i]})) { $match_found = 1; last; }
-	if ($comp eq $curr_bm[$i]) { $match_found = 1; last; }
+	if (($comp eq $curr_bm[$i]) || ($possible_cases{$comp} eq $possible_cases{$curr_bm[$i]})) { $match_found = 1; last; }
+	#if ($comp eq $curr_bm[$i]) { $match_found = 1; last; }
     }
     if ($match_found == 0) 
     { 
